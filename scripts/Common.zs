@@ -4,9 +4,13 @@ import crafttweaker.oredict.IOreDictEntry;
 
 global mods_order as string[] = [
     "minecraft",
-    "metallurgy",
     "thermalfoundation",
+    "metallurgy",
+    "substratum",
+    "ic2",
+    "mekanism",
     "immersiveengineering",
+    "techreborn",
     "embers",
     "jaopca"
 ];
