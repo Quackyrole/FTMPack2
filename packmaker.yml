@@ -1,0 +1,385 @@
+authors:
+- Quackyrole
+files:
+- location: overrides
+forge: 14.23.5.2854
+minecraft: 1.12.2
+mods:
+- botania:
+    version: Botania r1.10-363.jar
+- instantunify:
+    version: instantunify-1.12.2-1.1.2.jar
+- flux-networks:
+    version: fluxnetworks-1.12.2-4.0.15-32.jar
+- mysticallib:
+    version: mysticallib-1.12.2-1.9.0.jar
+- ding:
+    version: Ding-1.12.2-1.0.2.jar
+- integrated-tunnels:
+    version: IntegratedTunnels-1.12.2-1.6.13.jar
+- jei-integration:
+    version: jeiintegration_1.12.2-1.6.0.jar
+- client-tweaks:
+    version: ClientTweaks_1.12.2-3.1.11.jar
+- mantle:
+    version: Mantle-1.12-1.3.3.55.jar
+- hooked:
+    version: hooked-1.0.3.jar
+- minemenu:
+    version: MineMenu-1.12.2-1.6.11-universal.jar
+- tinkers-complement:
+    version: TinkersComplement-1.12.2-0.4.3.jar
+- bdlib:
+    version: bdlib-1.14.3.12-mc1.12.2.jar
+- blocklings:
+    version: Blocklings 6.0.1_b - 1.12.2.jar
+- essentialcraft-4-unofficial:
+    version: EssentialCraftUnofficial-4.9.112.5.jar
+- common-capabilities:
+    version: CommonCapabilities-1.12.2-2.4.8.jar
+- autoreglib:
+    version: AutoRegLib-1.3-32.jar
+- crafttweaker:
+    version: CraftTweaker2-1.12-4.1.20.586.jar
+- logistics-bridge:
+    version: LogisticsBridge-1.3.14.jar
+- chest-cow:
+    version: chestcow-1.0-mc1.12.0.jar
+- immersive-petroleum:
+    version: immersivepetroleum-1.12.2-1.1.9.jar
+- overpowered:
+    version: Overpowered-1.12.2-v1.3.2.jar
+- fastfurnace:
+    version: FastFurnace-1.12.2-1.3.1.jar
+- controlling:
+    version: Controlling-3.0.10.jar
+- ae2wtlib:
+    version: AE2WTLib-1.12.2-1.0.34.jar
+- thermal-innovation:
+    version: ThermalInnovation-1.12.2-0.3.6.1-universal.jar
+- steves-bizarre-adventure:
+    version: JojoBAdv-1.1.2 - 12.2.2.jar
+- enchanting-plus:
+    version: EnchantingPlus-1.12.2-5.0.176.jar
+- botania-tweaks:
+    version: botaniatweaks-1.8.6.jar
+- thaumcraft:
+    version: Thaumcraft-1.12.2-6.1.BETA26.jar
+- fancy-lamps:
+    version: fancylamps-1.2.1.jar
+- instrumental-mobs:
+    version: Instrumental-Mobs-1.2.jar
+- tinkers-jei:
+    version: tinkersjei-1.2.jar
+- top-addons:
+    version: topaddons-1.12.2-1.13.0.jar
+- cooking-for-blockheads:
+    version: CookingForBlockheads_1.12.2-6.5.0.jar
+- mysticalmechanics:
+    version: Mystical Mechanics-0.18.jar
+- immersive-cables:
+    version: ImmersiveCables-1.12.2-1.3.2.jar
+- blood-magic:
+    version: BloodMagic-1.12.2-2.4.3-105.jar
+- jeid:
+    version: JustEnoughIDs-1.0.3-55.jar
+- just-enough-energistics-jee:
+    version: JustEnoughEnergistics-1.12.2-1.0.8.jar
+- integrated-crafting:
+    version: IntegratedCrafting-1.12.2-1.0.10.jar
+- mowzies-mobs:
+    version: mowziesmobs-1.5.8.jar
+- prodigy-tech:
+    version: prodigytech-1.12.2-1.3.4.jar
+- ftb-utilities:
+    version: FTBUtilities-5.4.1.130.jar
+- jei:
+    version: jei_1.12.2-4.16.1.301.jar
+- embers-rekindled:
+    version: EmbersRekindled-1.14-hotfix.jar
+- toast-control:
+    version: Toast Control-1.12.2-1.8.1.jar
+- tomb-many-graves-2:
+    version: TombManyGraves-1.12-4.2.0.jar
+- baubles:
+    version: Baubles-1.12-1.5.2.jar
+- rustic:
+    version: rustic-1.1.6.jar
+- tinkers-construct:
+    version: TConstruct-1.12.2-2.13.0.183.jar
+- foamfix-optimization-mod:
+    version: foamfix-0.10.10-1.12.2.jar
+- ftb-library:
+    version: FTBLib-5.4.7.2.jar
+- akashic-tome:
+    version: AkashicTome-1.2-12.jar
+- wrapup:
+    version: WrapUp-1.12-1.1.3.jar
+- psi:
+    version: Psi-r1.1-78.1.jar
+- applied-energistics-2:
+    version: appliedenergistics2-rv6-stable-7.jar
+- chameleon:
+    version: Chameleon-1.12-4.1.3.jar
+- thermal-cultivation:
+    version: ThermalCultivation-1.12.2-0.3.6.1-universal.jar
+- thaumic-potatoes-2:
+    version: ThaumicPotatoes2-1.12.2-1.4.1.jar
+- jetif:
+    version: jetif-1.12.2-1.5.2.jar
+- metallurgy-4-reforged:
+    version: Metallurgy-4-Reforged-1.1.2.jar
+- cyclops-core:
+    version: CyclopsCore-1.12.2-1.6.6.jar
+- codechicken-lib-1-8:
+    version: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+- rustic-thaumaturgy:
+    version: Rustic Thaumaturgy-4.4a.jar
+- beyond-the-veil:
+    version: BeyondTheVeil-1.12.2-0.2.2.jar
+- wall-jump:
+    version: walljump-1.12.2-1.3.2.jar
+- tombmanygraves-2-api:
+    version: tombmanygraves2api-1.12.2-1.0.0.jar
+- tombmanyplugins-cosmetic-armor:
+    version: tombmanypluginscosmeticarmorreworked-1.0.0.jar
+- astral-sorcery:
+    version: astralsorcery-1.12.2-1.10.27.jar
+- neat:
+    version: Neat 1.4-17.jar
+- storage-drawers:
+    version: StorageDrawers-1.12.2-5.4.2.jar
+- simply-jetpacks-2:
+    version: SimplyJetpacks2-1.12.2-2.2.16.1.jar
+- librarianlib:
+    version: librarianlib-1.12.2-4.22.jar
+- redstone-flux:
+    version: RedstoneFlux-1.12-2.1.1.1-universal.jar
+- just-enough-resources-jer:
+    version: JustEnoughResources-1.12.2-0.9.2.60.jar
+- shadowfacts-forgelin:
+    version: Forgelin-1.8.4.jar
+- mekanism:
+    version: Mekanism-1.12.2-9.8.3.390.jar
+- mekanism-generators:
+    version: MekanismGenerators-1.12.2-9.8.3.390.jar
+- mekanism-tools:
+    version: MekanismTools-1.12.2-9.8.3.390.jar
+- logistics-pipes:
+    version: logisticspipes-0.10.3.40.jar
+- cosmetic-armor-reworked:
+    version: CosmeticArmorReworked-1.12.2-v5a.jar
+- deep-mob-learning:
+    version: deepmoblearning-1.12.2-2.5.4-universal.jar
+- charm:
+    version: Charm-1.12.2-1.4.jar
+- ender-storage-1-8:
+    version: EnderStorage-1.12.2-2.4.6.137-universal.jar
+- quantumstorage:
+    version: QuantumStorage-1.12-4.7.0.jar
+- xaeros-world-map:
+    version: XaerosWorldMap_1.11.0_Forge_1.12.jar
+- p455w0rds-library:
+    version: p455w0rdslib-1.12.2-2.3.161.jar
+- sanlib:
+    version: SanLib-1.12.2-1.5.1.jar
+- the-one-probe:
+    version: theoneprobe-1.12-1.4.28.jar
+- thermal-foundation:
+    version: ThermalFoundation-1.12.2-2.6.7.1-universal.jar
+- deep-mob-learning-blood-magic-addon:
+    version: deepmoblearningbm-1.12.2-1.0.1-universal.jar
+- wanionlib:
+    version: WanionLib-1.12.2-2.5.jar
+- bewitchment:
+    version: bewitchment-1.12.2-0.0.22.40.jar
+- constructs-armory:
+    version: conarm-1.12.2-1.2.5.9.jar
+- random-things:
+    version: RandomThings-MC1.12.2-4.2.7.4.jar
+- integrated-dynamics:
+    version: IntegratedDynamics-1.12.2-1.1.10.jar
+- capabilityproxy:
+    version: CapabilityProxy-1.12.2-2.1.3.jar
+- ctm:
+    version: CTM-MC1.12.2-1.0.2.31.jar
+- dummycore-unofficial:
+    version: DummyCoreUnofficial-2.4.112.5.jar
+- libnine:
+    version: libnine-1.12.2-1.1.9.jar
+- thaumic-jei:
+    version: ThaumicJEI-1.12.2-1.6.0-27.jar
+- bookshelf:
+    version: Bookshelf-1.12.2-2.3.590.jar
+- morph-o-tool:
+    version: Morph-o-Tool-1.2-21.jar
+- culinary-construct:
+    version: culinaryconstruct-1.3.4.jar
+- arcane-essentials:
+    version: Arcane Essentials-0.9.2.jar
+- ae2-stuff:
+    version: ae2stuff-0.7.0.4-mc1.12.2.jar
+- tis-3d:
+    version: TIS-3D-MC1.12.2-1.5.1.37.jar
+- mystical-gears:
+    version: mystgears-1.1.5.jar
+- ore-excavation:
+    version: OreExcavation-1.4.150.jar
+- thermal-dynamics:
+    version: ThermalDynamics-1.12.2-2.5.6.1-universal.jar
+- vampirism-become-a-vampire:
+    version: Vampirism-1.12.2-1.6.2.jar
+- fastworkbench:
+    version: FastWorkbench-1.12.2-1.7.3.jar
+- chisel:
+    version: Chisel-MC1.12.2-1.0.2.45.jar
+- patchouli:
+    version: Patchouli-1.0-21.jar
+- tbone:
+    version: TBone-v1.6.8+mc1.12.2.jar
+- cqrepoured:
+    version: Chocolate-Quest-Repoured-1.12.2-1.21.8A.jar
+- random-psideas:
+    version: rpsideas-2.4.2.jar
+- opencomputers:
+    version: OpenComputers-MC1.12.2-1.7.5.192.jar
+- elementaria:
+    version: Elementaria 5.0.6.jar
+- quark:
+    version: Quark-r1.6-179.jar
+- immersive-engineering:
+    version: ImmersiveEngineering-0.12-98.jar
+- crafting-tweaks:
+    version: CraftingTweaks_1.12.2-8.1.9.jar
+- mahou-tsukai:
+    version: mahoutsukai-1.12.2-v1.19.23.jar
+- swingthroughgrass:
+    version: stg-1.12.2-1.2.3.jar
+- unidict:
+    version: UniDict-1.12.2-2.9.7.jar
+- builders-bag:
+    version: buildersbag-1.12.2-1.3.0.22.jar
+- mtlib:
+    version: MTLib-3.0.6.jar
+- rats:
+    version: rats-3.2.14-1.12.2.jar
+- clay-soldiers-mod:
+    version: ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar
+- nether-chest:
+    version: netherchest-1.1.1.jar
+- inventory-tweaks:
+    version: InventoryTweaks-1.63.jar
+- appleskin:
+    version: AppleSkin-mc1.12-1.0.14.jar
+- tipthescales:
+    version: TipTheScales-1.12.2-1.0.4.jar
+- arcane-archives:
+    version: arcanearchives-0.2.0.25-mixins8.jar
+- extrabotany:
+    version: ExtraBotany-r1.1-58r.jar
+- betternether:
+    version: betternether-0.1.8.6.jar
+- rusticwitchcraft:
+    version: rusticwitcraft-1.0.2.jar
+- fast-leaf-decay:
+    version: FastLeafDecay-v14.jar
+- psionic-peripherals:
+    version: psipherals-1.1.0.jar
+- mouse-tweaks:
+    version: MouseTweaks-2.10-mc1.12.2.jar
+- betterfps:
+    version: BetterFps-1.4.8.jar
+- reauth:
+    version: reauth-3.6.0.jar
+- creativecore:
+    version: CreativeCore_v1.10.27_mc1.12.2.jar
+- modtweaker:
+    version: modtweaker-4.0.18.jar
+- littletiles:
+    version: LittleTiles_v1.5.0-pre199_60_mc1.12.2.jar
+- llibrary:
+    version: llibrary-1.7.19-1.12.2.jar
+- electroblobs-wizardry:
+    version: ElectroblobsWizardry-4.2.11-MC1.12.2.jar
+- dark-utilities:
+    version: DarkUtils-1.12.2-1.8.230.jar
+- clumps:
+    version: Clumps-3.1.2.jar
+- xaeros-minimap:
+    version: Xaeros_Minimap_20.24.0_Forge_1.12.jar
+- mchorses-mclib:
+    version: mclib-2.0.3-1.12.2.jar
+- railcraft:
+    version: railcraft-12.0.0.jar
+- project-vibrant-journeys:
+    version: ProjectVibrantJourneys-1.12.2-1.6.4.jar
+- psio:
+    version: psio-1.12.2-1.0.2.jar
+- openmodslib:
+    version: OpenModsLib-1.12.2-0.12.2.jar
+- openblocks:
+    version: OpenBlocks-1.12.2-1.8.1.jar
+- yungs-better-mineshafts-forge:
+    version: BetterMineshaftsForge-1.12.2-2.1.1.jar
+- vampirism-integrations:
+    version: VampirismIntegrations-1.12.2-1.3.0.jar
+- just-enough-calculation:
+    version: JustEnoughCalculation-1.12.2-3.2.4.jar
+- blood-arsenal:
+    version: BloodArsenal-1.12.2-2.2.2-31.jar
+- touhou-little-maid:
+    version: touhoulittlemaid-1.12.2-1.2.3-release.jar
+- guide-api:
+    version: Guide-API-1.12-2.1.8-63.jar
+- morpheus:
+    version: Morpheus-1.12.2-3.5.106.jar
+- bad-wither-no-cookie-reloaded:
+    version: badwithernocookiereloaded-1.12.2-3.4.18.jar
+- rebind-narrator:
+    version: rebindnarrator-1.0.jar
+- fairy-lights:
+    version: fairylights-2.2.0-1.12.2.jar
+- yungs-better-caves:
+    version: bettercaves-1.12.2-2.0.4.jar
+- steves-carts-reborn:
+    version: StevesCarts-1.12.2-2.4.32.137.jar
+- integrated-terminals:
+    version: IntegratedTerminals-1.12.2-1.0.14.jar
+- cofh-core:
+    version: CoFHCore-1.12.2-4.6.6.1-universal.jar
+- thermal-expansion:
+    version: ThermalExpansion-1.12.2-5.5.7.1-universal.jar
+- phosphor-forge:
+    version: phosphor-1.12.2-0.2.6+build50-universal.jar
+- ftb-backups:
+    version: FTBBackups-1.1.0.1.jar
+- placebo:
+    version: Placebo-1.12.2-1.6.0.jar
+- fps-reducer:
+    version: FpsReducer-mc1.12.2-1.18.jar
+- wireless-crafting-terminal:
+    version: WirelessCraftingTerminal-1.12.2-3.12.97.jar
+- building-gadgets:
+    version: BuildingGadgets-2.8.4.jar
+- cofh-world:
+    version: CoFHWorld-1.12.2-1.4.0.1-universal.jar
+- dank-null:
+    version: DankNull-1.12.2-1.7.91.jar
+- more-overlays:
+    version: moreoverlays-1.15.1-mc1.12.2.jar
+- jaopca:
+    version: JAOPCA-1.12.2-2.2.8.103.jar
+- thaumic-augmentation:
+    version: ThaumicAugmentation-1.12.2-2.0.8.jar
+- emoticons:
+    version: emoticons-0.6-1.12.2-dist.jar
+- essentials:
+    version: essentials-1.12.2-1.2.1.jar
+- reborncore:
+    version: RebornCore-1.12.2-3.19.4.529-universal.jar
+- vampires-need-umbrellas:
+    version: VampiresNeedUmbrellas-1.12.2-1.5.jar
+name: FTM Pack 2 Electric Boogaloo
+resourcepacks: []
+title: FTM Pack 2 Electric Boogaloo
+version: 1.0.0
