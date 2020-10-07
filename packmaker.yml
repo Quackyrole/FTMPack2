@@ -33,14 +33,12 @@ mods:
     version: bdlib-1.14.3.12-mc1.12.2.jar
 - blocklings:
     version: Blocklings 6.0.1_b - 1.12.2.jar
-- essentialcraft-4-unofficial:
-    version: EssentialCraftUnofficial-4.9.112.5.jar
 - common-capabilities:
     version: CommonCapabilities-1.12.2-2.4.8.jar
 - autoreglib:
     version: AutoRegLib-1.3-32.jar
 - crafttweaker:
-    version: CraftTweaker2-1.12-4.1.20.586.jar
+    version: CraftTweaker2-1.12-4.1.20.592.jar
 - logistics-bridge:
     version: LogisticsBridge-1.3.14.jar
 - chest-cow:
@@ -60,9 +58,9 @@ mods:
 - steves-bizarre-adventure:
     version: JojoBAdv-1.1.2 - 12.2.2.jar
 - enchanting-plus:
-    version: EnchantingPlus-1.12.2-5.0.176.jar
+    version: EnchantingPlus-1.12.2-5.0.179.jar
 - botania-tweaks:
-    version: botaniatweaks-1.8.6.jar
+    version: botaniatweaks-1.9.0.jar
 - thaumcraft:
     version: Thaumcraft-1.12.2-6.1.BETA26.jar
 - fancy-lamps:
@@ -94,7 +92,7 @@ mods:
 - ftb-utilities:
     version: FTBUtilities-5.4.1.130.jar
 - jei:
-    version: jei_1.12.2-4.16.1.301.jar
+    version: jei_1.12.2-4.16.1.302.jar
 - embers-rekindled:
     version: EmbersRekindled-1.14-hotfix.jar
 - toast-control:
@@ -166,7 +164,7 @@ mods:
 - mekanism-tools:
     version: MekanismTools-1.12.2-9.8.3.390.jar
 - logistics-pipes:
-    version: logisticspipes-0.10.3.40.jar
+    version: logisticspipes-0.10.3.64.jar
 - cosmetic-armor-reworked:
     version: CosmeticArmorReworked-1.12.2-v5a.jar
 - deep-mob-learning:
@@ -203,10 +201,8 @@ mods:
     version: CapabilityProxy-1.12.2-2.1.3.jar
 - ctm:
     version: CTM-MC1.12.2-1.0.2.31.jar
-- dummycore-unofficial:
-    version: DummyCoreUnofficial-2.4.112.5.jar
 - libnine:
-    version: libnine-1.12.2-1.1.9.jar
+    version: libnine-1.12.2-1.2.0.jar
 - thaumic-jei:
     version: ThaumicJEI-1.12.2-1.6.0-27.jar
 - bookshelf:
@@ -215,8 +211,6 @@ mods:
     version: Morph-o-Tool-1.2-21.jar
 - culinary-construct:
     version: culinaryconstruct-1.3.4.jar
-- arcane-essentials:
-    version: Arcane Essentials-0.9.2.jar
 - ae2-stuff:
     version: ae2stuff-0.7.0.4-mc1.12.2.jar
 - tis-3d:
@@ -292,15 +286,17 @@ mods:
 - reauth:
     version: reauth-3.6.0.jar
 - creativecore:
-    version: CreativeCore_v1.10.27_mc1.12.2.jar
+    version: CreativeCore_v1.10.28_mc1.12.2.jar
 - modtweaker:
     version: modtweaker-4.0.18.jar
 - littletiles:
-    version: LittleTiles_v1.5.0-pre199_60_mc1.12.2.jar
+    version: LittleTiles_v1.5.0-pre199_62_mc1.12.2.jar
 - llibrary:
     version: llibrary-1.7.19-1.12.2.jar
 - electroblobs-wizardry:
     version: ElectroblobsWizardry-4.2.11-MC1.12.2.jar
+- arcane-essentials:
+    version: Arcane Essentials 1.0.0-alpha-6
 - dark-utilities:
     version: DarkUtils-1.12.2-1.8.230.jar
 - clumps:
@@ -364,7 +360,7 @@ mods:
 - cofh-world:
     version: CoFHWorld-1.12.2-1.4.0.1-universal.jar
 - dank-null:
-    version: DankNull-1.12.2-1.7.91.jar
+    version: DankNull-1.12.2-1.7.101.jar
 - more-overlays:
     version: moreoverlays-1.15.1-mc1.12.2.jar
 - jaopca:
