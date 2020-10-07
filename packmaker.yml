@@ -62,7 +62,7 @@ mods:
 - botania-tweaks:
     version: botaniatweaks-1.9.0.jar
 - thaumcraft:
-    version: Thaumcraft-1.12.2-6.1.BETA26.jar
+    version: latest
 - fancy-lamps:
     version: fancylamps-1.2.1.jar
 - instrumental-mobs:
@@ -378,4 +378,4 @@ mods:
 name: FTM Pack 2 Electric Boogaloo
 resourcepacks: []
 title: FTM Pack 2 Electric Boogaloo
-version: 1.0.0
+version: 1.1.0
