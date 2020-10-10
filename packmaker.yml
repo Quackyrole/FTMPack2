@@ -232,7 +232,7 @@ mods:
 - tbone:
     version: TBone-v1.6.8+mc1.12.2.jar
 - cqrepoured:
-    version: Chocolate-Quest-Repoured-1.12.2-1.21.8A.jar
+    version: Chocolate-Quest-Repoured-1.12.2-1.21.9A.jar
 - random-psideas:
     version: rpsideas-2.4.2.jar
 - opencomputers:
@@ -378,4 +378,4 @@ mods:
 name: FTM Pack 2 Electric Boogaloo
 resourcepacks: []
 title: FTM Pack 2 Electric Boogaloo
-version: 1.1.0
+version: 1.1.1
