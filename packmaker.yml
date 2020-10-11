@@ -11,6 +11,8 @@ mods:
     version: instantunify-1.12.2-1.1.2.jar
 - flux-networks:
     version: fluxnetworks-1.12.2-4.0.15-32.jar
+- calculator:
+    version: calculator-1.12.2-5.0.12-15.jar
 - mysticallib:
     version: mysticallib-1.12.2-1.9.0.jar
 - ding:
@@ -39,14 +41,16 @@ mods:
     version: AutoRegLib-1.3-32.jar
 - crafttweaker:
     version: CraftTweaker2-1.12-4.1.20.594.jar
+- super-sound-muffler-revived:
+    version: supersoundmuffler-revived_1.12.2_1.0.2.10.jar
 - logistics-bridge:
     version: LogisticsBridge-1.3.14.jar
 - chest-cow:
     version: chestcow-1.0-mc1.12.0.jar
 - immersive-petroleum:
     version: immersivepetroleum-1.12.2-1.1.9.jar
-- overpowered:
-    version: Overpowered-1.12.2-v1.3.2.jar
+- just-enough-petroleum:
+    version: JustEnoughPetroleum-0.1.jar
 - fastfurnace:
     version: FastFurnace-1.12.2-1.3.1.jar
 - controlling:
@@ -111,6 +115,8 @@ mods:
     version: FTBLib-5.4.7.2.jar
 - akashic-tome:
     version: AkashicTome-1.2-12.jar
+- stimmedcow-nomorerecipeconflict:
+    version: NoMoreRecipeConflict-0.13(1.12.2).jar
 - wrapup:
     version: WrapUp-1.12-1.1.3.jar
 - psi:
@@ -303,7 +309,7 @@ mods:
 - clumps:
     version: Clumps-3.1.2.jar
 - xaeros-minimap:
-    version: Xaeros_Minimap_20.25.0_Forge_1.12.ja
+    version: Xaeros_Minimap_20.25.0_Forge_1.12.jar
     clientonly: true
 - mchorses-mclib:
     version: mclib-2.0.3-1.12.2.jar
