@@ -38,7 +38,7 @@ mods:
 - autoreglib:
     version: AutoRegLib-1.3-32.jar
 - crafttweaker:
-    version: CraftTweaker2-1.12-4.1.20.592.jar
+    version: CraftTweaker2-1.12-4.1.20.594.jar
 - logistics-bridge:
     version: LogisticsBridge-1.3.14.jar
 - chest-cow:
@@ -177,6 +177,7 @@ mods:
     version: QuantumStorage-1.12-4.7.0.jar
 - xaeros-world-map:
     version: XaerosWorldMap_1.11.0_Forge_1.12.jar
+    clientonly: true
 - p455w0rds-library:
     version: p455w0rdslib-1.12.2-2.3.161.jar
 - sanlib:
@@ -290,7 +291,7 @@ mods:
 - modtweaker:
     version: modtweaker-4.0.18.jar
 - littletiles:
-    version: LittleTiles_v1.5.0-pre199_62_mc1.12.2.jar
+    version: LittleTiles_v1.5.0-pre199_64_mc1.12.2.jar
 - llibrary:
     version: llibrary-1.7.19-1.12.2.jar
 - electroblobs-wizardry:
@@ -302,7 +303,8 @@ mods:
 - clumps:
     version: Clumps-3.1.2.jar
 - xaeros-minimap:
-    version: Xaeros_Minimap_20.24.0_Forge_1.12.jar
+    version: Xaeros_Minimap_20.25.0_Forge_1.12.ja
+    clientonly: true
 - mchorses-mclib:
     version: mclib-2.0.3-1.12.2.jar
 - railcraft:
