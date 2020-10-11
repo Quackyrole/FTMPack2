@@ -37,8 +37,6 @@ mods:
     version: Blocklings 6.0.1_b - 1.12.2.jar
 - common-capabilities:
     version: CommonCapabilities-1.12.2-2.4.8.jar
-- autoreglib:
-    version: AutoRegLib-1.3-32.jar
 - crafttweaker:
     version: CraftTweaker2-1.12-4.1.20.594.jar
 - super-sound-muffler-revived:
@@ -155,8 +153,6 @@ mods:
     version: StorageDrawers-1.12.2-5.4.2.jar
 - simply-jetpacks-2:
     version: SimplyJetpacks2-1.12.2-2.2.16.1.jar
-- librarianlib:
-    version: librarianlib-1.12.2-4.22.jar
 - redstone-flux:
     version: RedstoneFlux-1.12-2.1.1.1-universal.jar
 - just-enough-resources-jer:
@@ -208,8 +204,6 @@ mods:
     version: CapabilityProxy-1.12.2-2.1.3.jar
 - ctm:
     version: CTM-MC1.12.2-1.0.2.31.jar
-- libnine:
-    version: libnine-1.12.2-1.2.0.jar
 - thaumic-jei:
     version: ThaumicJEI-1.12.2-1.6.0-27.jar
 - bookshelf:
@@ -260,8 +254,6 @@ mods:
     version: UniDict-1.12.2-2.9.7.jar
 - builders-bag:
     version: buildersbag-1.12.2-1.3.0.22.jar
-- mtlib:
-    version: MTLib-3.0.6.jar
 - rats:
     version: rats-3.2.14-1.12.2.jar
 - clay-soldiers-mod:
@@ -298,8 +290,6 @@ mods:
     version: modtweaker-4.0.18.jar
 - littletiles:
     version: LittleTiles_v1.5.0-pre199_64_mc1.12.2.jar
-- llibrary:
-    version: llibrary-1.7.19-1.12.2.jar
 - electroblobs-wizardry:
     version: ElectroblobsWizardry-4.2.11-MC1.12.2.jar
 - arcane-essentials:
@@ -319,8 +309,6 @@ mods:
     version: ProjectVibrantJourneys-1.12.2-1.6.4.jar
 - psio:
     version: psio-1.12.2-1.0.2.jar
-- openmodslib:
-    version: OpenModsLib-1.12.2-0.12.2.jar
 - openblocks:
     version: OpenBlocks-1.12.2-1.8.1.jar
 - yungs-better-mineshafts-forge:
