@@ -54,9 +54,9 @@ recipes.addShaped(
 // );
 
 # Chunk Loader (SC2)
-
+recipes.remove(<stevescarts:cartmodule:49>);
 recipes.addShaped(
-    "stevescarts:module/chunk_loader", <stevescarts:cartmodule:49>,
+    "stevescarts_module_chunk_loader", <stevescarts:cartmodule:49>,
     [
         [null, <minecraft:ender_pearl>, null],
         [<stevescarts:modulecomponents:9>, <railcraft:worldspike:3>, <stevescarts:modulecomponents:9>],
