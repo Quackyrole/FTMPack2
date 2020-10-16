@@ -166,7 +166,7 @@ mods:
 - mekanism-tools:
     version: MekanismTools-1.12.2-9.8.3.390.jar
 - logistics-pipes:
-    version: logisticspipes-0.10.3.64.jar
+    version: logisticspipes-0.10.3.67.jar
 - cosmetic-armor-reworked:
     version: CosmeticArmorReworked-1.12.2-v5a.jar
 - deep-mob-learning:
@@ -193,7 +193,7 @@ mods:
 - wanionlib:
     version: WanionLib-1.12.2-2.5.jar
 - bewitchment:
-    version: bewitchment-1.12.2-0.0.22.40.jar
+    version: bewitchment-1.12.2-0.0.22.41.jar
 - constructs-armory:
     version: conarm-1.12.2-1.2.5.9.jar
 - random-things:
@@ -299,7 +299,7 @@ mods:
 - clumps:
     version: Clumps-3.1.2.jar
 - xaeros-minimap:
-    version: Xaeros_Minimap_20.25.0_Forge_1.12.jar
+    version: Xaeros_Minimap_20.25.1_Forge_1.12.jar
     clientonly: true
 - mchorses-mclib:
     version: mclib-2.0.3-1.12.2.jar
@@ -308,7 +308,7 @@ mods:
 - project-vibrant-journeys:
     version: ProjectVibrantJourneys-1.12.2-1.6.4.jar
 - psio:
-    version: psio-1.12.2-1.0.2.jar
+    version: psio-1.12.2-1.0.3.jar
 - openblocks:
     version: OpenBlocks-1.12.2-1.8.1.jar
 - yungs-better-mineshafts-forge:
@@ -374,4 +374,4 @@ mods:
 name: FTM Pack 2 Electric Boogaloo
 resourcepacks: []
 title: FTM Pack 2 Electric Boogaloo
-version: 1.2.0
+version: 1.2.1
