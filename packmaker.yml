@@ -247,7 +247,7 @@ mods:
 - crafting-tweaks:
     version: CraftingTweaks_1.12.2-8.1.9.jar
 - mahou-tsukai:
-    version: mahoutsukai-1.12.2-v1.19.23.jar
+    version: mahoutsukai-1.12.2-v1.19.24.jar
 - swingthroughgrass:
     version: stg-1.12.2-1.2.3.jar
 - unidict:
@@ -285,11 +285,11 @@ mods:
 - reauth:
     version: reauth-3.6.0.jar
 - creativecore:
-    version: CreativeCore_v1.10.28_mc1.12.2.jar
+    version: CreativeCore_v1.10.29_mc1.12.2.jar
 - modtweaker:
     version: modtweaker-4.0.18.jar
 - littletiles:
-    version: LittleTiles_v1.5.0-pre199_64_mc1.12.2.jar
+    version: LittleTiles_v1.5.0-pre199_65_mc1.12.2.jar
 - electroblobs-wizardry:
     version: ElectroblobsWizardry-4.2.11-MC1.12.2.jar
 - arcane-essentials:
@@ -374,4 +374,4 @@ mods:
 name: FTM Pack 2 Electric Boogaloo
 resourcepacks: []
 title: FTM Pack 2 Electric Boogaloo
-version: 1.2.1
+version: 1.2.2
